@@ -1,0 +1,34 @@
+.div{
+    margin-top: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    width: 700px;
+    height: 400px;
+}
+button{
+    width: 150px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: white;
+    padding: 10px;
+    text-shadow: 2px;
+    border: 2px groove currentColor;
+    background-color: teal;
+    font-style: italic;
+    border-radius: 45%;
+    box-shadow: burlywood 15px ;
+    cursor: pointer;  
+}
+button:hover{
+    background-color: crimson;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-style: italic;
+}
